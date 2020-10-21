@@ -1,2 +1,2 @@
 # ReferenceErrorBug
-This is bug min demo for vs prompting error.
+This is a bug min demo for vs prompting error.
