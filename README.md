@@ -11,4 +11,4 @@ Now, I already know the reason, because the language version is 7.1 in project f
 
 The language version 7.3 is ok, so, old versions have the some bugs and I think need to fix, otherwise, don't allow define non supported overload methods and should not say 'xxx' parameters problems, It's very terrible. It seem to be difficult, because it means that some versions should republish.
 
-Of course, I have an easy solution for this that all referenced libraries should tell caller the language version and give them smart tips when the version of it is the newer.
+Of course, I have an easy solution for this that all referenced libraries should tell caller the language version and give them smart tips when the version of it is the later.
